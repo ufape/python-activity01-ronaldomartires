@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "test_activity01",
+      "name": "test_activity",
       "setup": "sudo -H pip3 install pytest",
       "run": "pytest",
       "input": "",
