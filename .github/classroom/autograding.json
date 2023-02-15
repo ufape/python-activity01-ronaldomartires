@@ -3,7 +3,7 @@
     {
       "name": "test_problem_01.py",
       "setup": "sudo -H pip3 install pytest",
-      "run": "pytest",
+      "run": "pytest test_problem_01.py",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -13,7 +13,7 @@
     {
       "name": "test_problem_02.py",
       "setup": "sudo -H pip3 install pytest",
-      "run": "pytest",
+      "run": "pytest test_problem_02.py",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -23,7 +23,7 @@
     {
       "name": "test_problem_03.py",
       "setup": "sudo -H pip3 install pytest",
-      "run": "pytest",
+      "run": "pytest test_problem_03.py",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -33,7 +33,7 @@
     {
       "name": "test_problem_04.py",
       "setup": "sudo -H pip3 install pytest",
-      "run": "pytest",
+      "run": "pytest test_problem_04.py",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -43,7 +43,7 @@
     {
       "name": "test_problem_05.py",
       "setup": "sudo -H pip3 install pytest",
-      "run": "pytest",
+      "run": "pytest test_problem_05.py",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -53,7 +53,7 @@
     {
       "name": "test_problem_06.py",
       "setup": "sudo -H pip3 install pytest",
-      "run": "pytest",
+      "run": "pytest test_problem_06.py",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -63,7 +63,7 @@
     {
       "name": "test_problem_07.py",
       "setup": "sudo -H pip3 install pytest",
-      "run": "pytest",
+      "run": "pytest test_problem_07.py",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -73,7 +73,7 @@
     {
       "name": "test_problem_08.py",
       "setup": "sudo -H pip3 install pytest",
-      "run": "pytest",
+      "run": "pytest test_problem_08.py",
       "input": "",
       "output": "",
       "comparison": "included",
